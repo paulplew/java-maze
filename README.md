@@ -25,11 +25,11 @@ The maze is a minimum spanning tree that is initialized using [Kruskal's Algorit
 ## Further Development
 5 dreams I have if I were to develop this further:
 1. Switch from the Northeastern Tester Library to the JUnit Testing Framework
-  - I Learned how to use JUnit in `Object Oriented Design` and will switch this project to use it eventually
+   1. I Learned how to use JUnit in `Object Oriented Design` and will switch this project to use it eventually
 2. Add access modifiers to all variables
-  - When I originally wrote this project I was new to Java syntax and Object Oriented concepts so I had no idea what access modifiers even were. Now I am wiser and know that these are essential for safe extensible code. 
+   1. When I originally wrote this project I was new to Java syntax and Object Oriented concepts so I had no idea what access modifiers even were. Now I am wiser and know that these are essential for safe extensible code. 
 3. Add more documentation
-  - The documentation is written using comments which makes them difficult to read and nearly impossible to find. 
+   1. The documentation is written using comments which makes them difficult to read and nearly impossible to find. 
 4. Rename variables to be more descriptive
-  - Variables like `i`, `r`, and `k` take a long time to decipher after walking away from the code for a while.
+   1. Variables like `i`, `r`, and `k` take a long time to decipher after walking away from the code for a while.
 5. Look into using a different framework like the `Swing Library`
