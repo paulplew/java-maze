@@ -1,5 +1,5 @@
 # java-maze
-Java Maze assignment completed in April 2021 for Fundamentals of Computer Science II at Northeastern University. Unfortunately the code is available by request only due to the confidentiality rules at Northeastern University, this protects my work from plagarism by future students taking the course.
+Java Maze assignment completed in April 2021 for Fundamentals of Computer Science II at Northeastern University. Unfortunately the code is available by request only due to the confidentiality rules at Northeastern University, this protects my work from plagarism by future students.
 
 ## Pair Programming
 This assignments was programmed using the [Agile development](https://en.wikipedia.org/wiki/Agile_software_development) concept of [pair programming](https://en.wikipedia.org/wiki/Pair_programming). Pair programming has been proven to make cleaner code with less bugs than individual programming.
